@@ -1,1 +1,1 @@
-# Test-Realsmart
+# Nuxt-Encrypt-Playground
